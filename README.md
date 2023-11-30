@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation was to create a tech blog that allows users to either sign-in or sign-up. I built this project so there could be organized posts if a user chooses to create one. This problem solves unorganized blogging. I learned how to use logic to create, and, and delete blog posts.
+My motivation was to create a tech blog that allows users to either sign-in or sign-up. I built this project so there could be organized posts if a user chooses to create one. This problem solves unorganized blogging. I learned how to use logic to create, add, and delete blog posts.
 
 ## Table of Contents (Optional)
 

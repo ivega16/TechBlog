@@ -10,6 +10,7 @@ const profileRoutes = require('./profileRoutes')
 //http://localhost:3001/
 router.use('/', homeRoutes);
 
+// http://localhost:3001/profile
 router.use('/profile', profileRoutes);
 
 //API endpoint is meant to do CRUD (MODEL and Controller)

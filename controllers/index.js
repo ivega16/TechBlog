@@ -2,6 +2,7 @@ const router = require('express').Router();
 
 const apiRoutes = require('./api');
 const homeRoutes = require('./homeRoutes');
+const profileRoutes = require('./profileRoutes')
 
 
 //modular html routes
@@ -9,6 +10,7 @@ const homeRoutes = require('./homeRoutes');
 //http://localhost:3001/
 router.use('/', homeRoutes);
 
+router.use('/', profileRoutes);
 
 //API endpoint is meant to do CRUD (MODEL and Controller)
 //http://localhost:3001/api

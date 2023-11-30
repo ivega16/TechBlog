@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Why MVC is so important",
+    "contents": "MVC allows developers to maintain a true separation of concerns, devising their code between the Model layer for data, the View layer for design, and the Controller layer for application logic."
+  },
+  {
+    "title": "The Ultimate Tech Quiz",
+    "contents": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!"
+  },
+  {
+    "title": "Roll 'Em Up",
+    "contents": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes."
+  }
+]
